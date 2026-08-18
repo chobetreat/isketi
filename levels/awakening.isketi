@@ -1,0 +1,15 @@
+{
+    "name":"awakening",
+    "base":"textures/awakeningb.png",
+    "light":"textures/awakeningl.png",
+    "rects":[{'rect': [637, 572, 675, 507]}, {'rect': [640, 437, 69, 42]}, {'rect': [643, 476, 9, 114]}, {'rect': [1300, 479, 12, 132]}, {'rect': [292, 866, 21, 213],"kills":True}, {'rect': [382, 914, 12, 162],"kills":True}, {'rect': [466, 977, 15, 99],"kills":True}, {'rect': [577, 908, 6, 168],"kills":True}, {'rect': [232, 905, 9, 174],"kills":True}, {'rect': [121, 881, 21, 198],"kills":True}, {'rect': [37, 908, 9, 171],"kills":True}, {'rect': [1342, 839, 9, 240],"kills":True}, {'rect': [1435, 821, 12, 255],"kills":True}, {'rect': [1534, 872, 6, 204],"kills":True}, {'rect': [1603, 809, 12, 267],"kills":True}, {'rect': [1690, 860, 18, 216],"kills":True}, {'rect': [1774, 929, 21, 144],"kills":True}, {'rect': [1870, 875, 12, 201],"kills":True}, {'rect': [0, 1079, 1918, 1],"kills":True}],
+    "holes":[
+
+    ],
+    "end_position":[900, 550],
+    "end_distance":100,
+    "fans":[
+        {"pos":[-20, 300], "width":100, "strength":20, "angle":0, "particles":10, "particle_amount":0.05}
+    ],
+
+}

@@ -1,0 +1,15 @@
+{
+    "name":"awakening",
+    #"base":"textures/awakeningb.png",
+    #"light":"textures/awakeningl.png",
+    "rects":[{"rect":[600, 500, 200, 200]}],
+    "holes":[
+        {"pos":[700, 600], "strength":30}
+    ],
+    #"end_position":[900, 550],
+    "end_distance":30,
+    "fans":[
+
+    ],
+
+}
